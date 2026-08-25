@@ -1,16 +1,24 @@
-## Hi there 👋
+구매, 공격 시 디스코드 웹훅으로 알림, 디스코드 API에 요청해서 구매자 역할 주기
+관리자로그 (Audits) / 구매로그 (Buys) DB 추가
+* user에 userAvatar 삭제
 
-<!--
-**fr2da/fr2da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+APK
+- 공격 탭 하단 가운데 구분선 길이 늘리기
+- 알림 Toast 우측 상단에서 나오게 수정
+- 정보탭, 메인앱 등 공격 기록 시스템 전면 삭제(API제거), 버전 카드, 아용권 만료일은 설정 탭으로
+- 상단바 공격탭 버튼 앞에 미니멀 버튼 추가해서 누르면 사이즈 작아지고 아이피, 포트, 핑만 표시하게
+- 버전 업데이트 시 브라우저로 안넘어가고 바로 apk 설치하도록
+ㄴ 업데이트 알림 시 변경사항 띄우기
+- 주소새로고침하면 아예 새로켰다 생각하고 아이피, 포트 다시 불러오기 완벽하게 (원본티니소스참고)
+- apk로 빌드했을때 lib에 libtun2socks.so 파일명 안뜨고 libtunnel.so로 뜨게 (tun2socks -> tunnel)
+- BSRE, 리벤지, BSD, 테일 감지 추가
 
-Here are some ideas to get you started:
+나중에
+- 대규모 리팩토링 (디자인 컴포넌트 대통합)
+ㄴ apk 코드에 주석추가
+- 몽고DB 백업 로직 추가
+- 랜딩페이지에 이용자 구매페이지
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ios 앱?
+
+독립 시 문상으로 결제받기
