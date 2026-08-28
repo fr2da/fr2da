@@ -1,5 +1,6 @@
 
 * user에 userAvatar 삭제
+* 배포직전 isbanned 삭제
 
 APK
 - 공격 탭 하단 가운데 구분선 길이 늘리기
