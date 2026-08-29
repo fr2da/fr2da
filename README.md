@@ -1,10 +1,11 @@
 Web
 * reveal.tsx 삭제하고 Framer-Motion으로 이쁘게 전면 수정
 * user에 userAvatar 삭제
-* 배포직전 isbanned 삭제
 * 뭐 있는척하고 까서 로직 보면 딱히 필요쓰잘데기없는 코드 삭제
+* 푸터 디자인 예쁘게 
 
 APK
+- isbanned, isadmin 삭제
 - 공격 탭 하단 가운데 구분선 길이 늘리기
 - 알림 Toast 우측 상단에서 나오게 수정
 - 정보탭, 메인앱 등 공격 기록 시스템 전면 삭제(API제거), 버전 카드, 아용권 만료일은 설정 탭으로
