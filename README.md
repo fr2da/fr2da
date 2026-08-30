@@ -1,5 +1,4 @@
 Web
-* reveal.tsx 삭제하고 Framer-Motion으로 이쁘게 전면 수정
 * user에 userAvatar 삭제
 * 뭐 있는척하고 까서 로직 보면 딱히 필요쓰잘데기없는 코드 삭제
 * 푸터 디자인 예쁘게 
