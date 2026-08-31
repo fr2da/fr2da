@@ -1,6 +1,3 @@
-Web
-* user에 userAvatar 삭제
-
 APK
 - 바뀐 백엔드 API대로 전면 수정
 - 업데이트 알림 시 변경사항 띄우기
