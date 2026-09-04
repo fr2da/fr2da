@@ -1,6 +1,3 @@
-APK
-- 업데이트 알림 시 변경사항 띄우기
-
 APK 완료
 - apk로 빌드했을때 lib에 libtun2socks.so 파일명 안뜨고 libtunnel.so로 뜨게 (tun2socks -> tunnel) ✅
 - 공격 탭 하단 가운데 구분선 길이 늘리기 ✅
@@ -17,6 +14,7 @@ APK 완료
 
 이용약관 개선
 랜딩페이지 문구들 개선
+APK orbit 오버레이 축소할때 뚝 끊기는 문제 해결
 
 Later
 - ios 버전 출시?
